@@ -542,7 +542,7 @@ SHL_Assignment/
 ## 📚 References
 
 ### Datasets
-- L2-ARTIC Dataset: [Link to dataset]
+- L2-ARTIC Dataset: https://www.kaggle.com/datasets/davidthomastran/l2-artic-en-mdd-with-nationality-catogorization
 - ARPA Phoneme Set: Standard phoneme inventory
 
 ### Models
@@ -558,13 +558,9 @@ SHL_Assignment/
 - Mehrabi et al., "A Survey on Bias and Fairness in Machine Learning", 2021
 - Bender & Friedman, "Data Statements for Natural Language Processing", 2018
 
-## 📝 License
-
-[Specify license]
-
 ## 👥 Authors
 
-SHL AI Research Team
+Pawan Meena
 
 ## 🙏 Acknowledgments
 
@@ -572,7 +568,3 @@ SHL AI Research Team
 - OpenAI for Whisper model
 - Facebook AI Research for Wav2Vec2
 - Open-source community for excellent tools and libraries
-
----
-
-**Note**: This is a research-grade system. For production deployment, additional validation, testing, and compliance considerations are required.
