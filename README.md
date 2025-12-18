@@ -1,6 +1,6 @@
 # Speech-Based Grammar, Fluency, and Pronunciation Scoring Engine for Spoken Language Assessment
 
-Deployment app Link: https://pawan09032004-speech-based-language-ass-appstreamlit-app-pfjxtp.streamlit.app/
+Deployed app link: https://pawan09032004-speech-based-language-ass-appstreamlit-app-pfjxtp.streamlit.app/
 
 A comprehensive research-grade system for evaluating spoken English communication skills using advanced speech processing, NLP, and deep learning techniques. This project provides multi-dimensional assessment of pronunciation, grammar, and fluency with explainable AI, fairness analysis, and an interactive web interface.
 
