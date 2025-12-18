@@ -2,20 +2,6 @@
 
 A comprehensive research-grade system for evaluating spoken English communication skills using advanced speech processing, NLP, and deep learning techniques. This project provides multi-dimensional assessment of pronunciation, grammar, and fluency with explainable AI, fairness analysis, and an interactive web interface.
 
-## 📋 Table of Contents
-
-- [Problem Motivation](#problem-motivation)
-- [Key Features](#key-features)
-- [Dataset Description](#dataset-description)
-- [Methodology](#methodology)
-- [Model Design](#model-design)
-- [Fairness Considerations](#fairness-considerations)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Future Work](#future-work)
-- [References](#references)
-
 ## 🎯 Problem Motivation
 
 ### People Science & Hiring Context
